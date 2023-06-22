@@ -1,2 +1,2 @@
 # Numpy-and-Pandas-Learning
-Learning
+Learned some data science basics.
